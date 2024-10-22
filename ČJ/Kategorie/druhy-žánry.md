@@ -73,7 +73,7 @@ _také jako lit. druh_
 
 ### velká
 *   **epos** – dlouhá básnická skladba o hrdinských činech
-*   **román** – dlouhé, převážně prozaické dílo s mnoha postavami, zachycuje více aspektů života, může být i veršovaný
+*   **román** – dlouhý s mnoha postavami, více aspektů života, má více dějových linek
 *   **legenda** – vyprávění ze života světců
 *   **cestopis** – soubor věcných informací o konkrétních místech
 *	**kronika**

@@ -1,4 +1,4 @@
-# Slohový postup
+# SLOHOVÝ POSTUP
 ## Informační
 * nejjednodušší
 * Fakta o tom, co se kdy a kde stalo, prostě konstatuje (nevysvětluje), třeba formou výčtu.
@@ -124,6 +124,10 @@ _také jednací či úřední_
 ## Řečnický styl
 * veřejné a oficiální mluvené projevy
 * funkce přesvědčovací a propagační
+
+
+
+
 
 
 # Slohové útvary

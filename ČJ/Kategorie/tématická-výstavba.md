@@ -19,20 +19,17 @@ _nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_
 _prostředník mezi obsahem sdělení a čtenářem_
 _vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
 
-### řeč vypravěče a řeč postav
-_vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
-
 * ich-forma, er-forma
+* o čem vypravěč mluví - vnitřní, vnější, popisy, odbíhá od tématu ...
 
 #### typ vypravěče (lyrického subjektu)
-	* zúčastněný / nezúčastněný
+* zúčastněný / nezúčastněný
 * vševědoucí - nad příběhem, plně informován -> er-forma
 * autorský vypravěč - ví všechno, co potřebuje, přidává své komentáře
 * přímý - jedna z postav, prožívá děj + vypráví -> ich-forma
 * personální - soustředí se na jednu z postav -> vnitřní monolog, subjektivizovaná er-forma
 * "oko kamery" - vnější popis prostředí, chování postav
 
-TODO co s nim?
 
 ## Postavy
 ### charakteristika
@@ -43,6 +40,31 @@ TODO co s nim?
 * konflikty - problémy kterým čelí
 * vývoj – proměny postavy a její příčiny
 
+
+
+### řeč vypravěče
+_vypravěče - vše co není přímá řeč_
+
+TODO
+
+### řeč postav:
+
+* monolog - souvislá nepřerušovaná promluva jedné postavy
+* dialog - pásmo přerušovaných promluv dvou nebo několika postav, které se střídají v roli mluvčího a posluchače
+* vnitřní monolog - promluva nepronesená, zachycuje vnitřní svět postavy v určitém okamžiku
+
+#### typy přímé řeči
+* řeč přímá - doslovná reprodukce projevu 
+	* uvozovky, uvozovací věta
+	* **nevlastní (neznačená) přímá řeč** - stejná ale chybí uvozovky
+* řeč nepřímá - zpráva o něčím výroku
+	* vyjádřená vedlejší větou
+	* třetí osoba, často slovo "že"
+* polopřímá řeč - jedna postava referuje o promluvě jiné postavy
+	* ve 3. osobě
+	* často spojena s vnitřním monologem
+	* nejisté zda je to promluva / jen myšlenka
+	* _Křemílek vyplázl jazyk na Vochomůrku. Už se s ním nebude bavit._
 
 
 ## Děj

@@ -14,9 +14,10 @@ Děj je řazen chronologicky, retrospektivně, rámcový postup
 * paralelní (několik příběhů vedle sebe, mohou se prolínat)
 
 #### části díla
-* kapitoly, odstavce (próza)
-* zpěvy, básně, sloky, verše (poezie)
-* jednání (dějství), scény, výstupy, repliky
+* próza - kapitoly, podkapitoly, odstavce
+* poezie - zpěvy, básně, sloky, verše
+* drama - jednání (dějství), scény, výstupy, repliky
+
 * např. Dílo se skládá z kapitol, ty jsou relativně krátké a nejsou dále děleny na podkapitoly. Text je členěn do odstavců.
 kapitoly, mezi nimiž bývá přechod buď volný, nebo těsný.
 

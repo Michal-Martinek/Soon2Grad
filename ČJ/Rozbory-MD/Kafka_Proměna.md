@@ -1,11 +1,8 @@
 # Proměna, Kafka Franz
-
 ## Michal Martínek
 
 ### Literární druh a žánr a jejich znaky v textu
-
 Epika – děj se vyvíjí v čase
-
 Povídka – krátký rozsah, próza, jednodušší než román
 
 ### hlavní a vedlejší téma, motiv
@@ -24,27 +21,28 @@ Povídka – krátký rozsah, próza, jednodušší než román
 
 ### kompoziční výstavba
 
-Dílo se skládá ze tří kapitol, ty nejsou dále děleny na podkapitoly. Text je členěn do odstavců. Odstavce mají střední až větší rozsah.
+tři kapitoly, neděleny na podkapitoly
+odstavce - střední až větší rozsah
+
+chronologický děj
 
 ### řeč vypravěče a řeč postav
 
-řeč vypravěče – er-forma, objektivní, nezaujatý, vnější popis postav X popis vnitřního stavu Řehoře, vševědoucí
+řeč vypravěče – er-forma, nezúčastněný, objektivní, nezaujatý, vševědoucí
+vnější popis postav X popis vnitřního stavu Řehoře
 
-řeč postav:  
-Postavy mluví povětšinou krátce, jednoznačně. U Řehoře jsou popsány pouze jeho myšlenky a to, co slyší, protože mluvit nemůže
+řeč postav: 
+Postavy mluví povětšinou krátce, jednoznačně.
+U Řehoře jsou popsány pouze jeho myšlenky a to, co slyší, protože mluvit nemůže
+TODO přímá řeč
 
 ### hlavní a vedlejší postavy
 
 **hlavní postavy:**
-
 Řehoř Samsa - promění se v brouka, i přes to je odhodlán vyrazit na služební cestu. Pozorujeme proměnu od váženého obchodního cestujícího, k postavě, která působí přítěž rodině.
-
 Na začátku je hodný, důsledný, zodpovědný, živí rodinu.
-
 Po proměně se cítí špatně kvůli problémům, které rodině způsobil a zároveň svoji situaci bere jako fakt.
-
 Nedostane se mu pochopení, politování a pak ani důstojného zacházení.
-
 Nakonec zemře a všem se spíš uleví.
 
 Otec – zpočátku zlenivělý stařec, je rázný a cílevědomý, prchlivý a tvrdý. Ryze praktický, jako ostatní musí po proměně začít pracovat.
@@ -61,11 +59,11 @@ Firemní zástupce – první den se shání po Řehořovi; nechápe, co se stal
 
 ### jazyková vrstva
 
-_jazykové prostředky a jejich funkce – slova: vyhledat, pojmenovat, citovat + zdůvodnit proč je autor využi_l
+spisovný jazyk, neutrální - nezabarvený, prostý věcný styl
+TODO slova
+neologismy - newspeak
 
-spisovný jazyk, neutrální, citově nezabarvená slova, prostý věcný styl
-
-Výpověď věcná, strohá, racionální, bez emocí a přímá.  
+Výpověď věcná, strohá, racionální, bez emocí a přímá.
 
 **stavba vět:**
 
@@ -88,15 +86,22 @@ Elipsa – „Dělá to pořád!“
 Synekdocha – „Všechno se zuřivě nekontrolovatelně zmítalo“ - nožičky
 
 ### literární a obecně kulturní kontext
-
+TODO
+styl - existencialismus
 **život**: _1883 – 1924_
 
-_Židovský původ, němec žijící v praze – zdálo se mu že nikam nezapadá._
 
-_Byl pilný pracovník, práce ho ale nebavila._
+Židovský původ, němec žijící v praze – zdálo se mu že nikam nezapadá.
 
-_Měl komplikované společenské i rodinné vztahy._
+Byl pilný pracovník, práce ho ale nebavila.
 
-_Stoupenec_ Pražské německé literatury
+Měl komplikované společenské i rodinné vztahy.
+
+Stoupenec Pražské německé literatury
 
 **další autoři**: Camill Hoffmann, Rainer Maria Rilke, Oskar Wiener
+Max Brod – zveřejnil Kafkovo dílo, své dílo např. Hlídka
+Herman Hesse – Stepní vlk, Siddhartha
+Marcel Proust – Hledání ztraceného času
+James Joyce – Odysseus
+Maxim Gorkij – Měšťáci

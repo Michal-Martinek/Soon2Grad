@@ -3,11 +3,11 @@
 
 jazyk - slovní zásoba a její vrstvy 
 * spisovnost x nespisovnost
-* neutrální, citové zabarvení - kladně, záporně
+* neutrální / citové zabarvení - kladně, záporně
 
 # Jazykové prostředky
 _a jejich funkce ve výňatku_
-=> funkce?
+TODO funkce?
 
 ## Slova
 ### spisovná
@@ -15,10 +15,10 @@ _a jejich funkce ve výňatku_
 * knižní - slavnostní projevy, vzdělávací lit. - _uzřít_
 * poetismy - typická pro poezii - _luna, jeseň_
 * odborné výrazy
-Vlastní jména
+TODO Vlastní jména
 
 
-### nespisovná:
+### nespisovná
 * z obecné češtiny – v běžné řeči - _mlíko_
 * nářečí - _gážo_
 * slang - mluva lidí spojených zájmově nebo pracovně, např. studentský, mechaniků, kutilů
@@ -32,10 +32,11 @@ Vlastní jména
 
 ## Tropy a figury
 _a jejich funkce ve výňatku_
-TODO jak u neuměl textu
+TODO jak u neuměleckého textu
 
 ### Tropy
 _více abstraktní, nejsou "vidět" narozdíl od figur_
+
 * Personifikace
 * Epiteton - básnický přívlastek
 * Oxymóron - = protimluv, nesmyslné spojení slov
@@ -84,21 +85,22 @@ Apoziopeze - nedokončená výpověď
 Exklamace - citově vzrušené zvolání (Jaká krása!)
 
 
----------------
+# TODO ---------------
+
 zvuková stránka jazyka
 **grafické prostředky**
+
+veršová výstavba
 rýmy, verše...
 
----------------
 
 typy promluv
 vyprávěcí způsoby
-řeč postav
 
 **stavba vět:**
-
-veršová výstavba
+Převažují souvětí, jejich obsah je však jednoduše pochopitelný. Jsou střední až delší, v některých částech ovšem krátké, úsečné jednoduché věty.
 
 
 
 jazykové prostředky a jejich funkce – slova: vyhledat, pojmenovat, citovat + zdůvodnit proč je autor využil
+Výpověď věcná, strohá, racionální, bez emocí a přímá.
