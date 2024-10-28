@@ -24,11 +24,11 @@ _vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
 
 #### typ vypravěče (lyrického subjektu)
 * zúčastněný / nezúčastněný
-* vševědoucí - nad příběhem, plně informován -> er-forma
-* autorský vypravěč - ví všechno, co potřebuje, přidává své komentáře
-* přímý - jedna z postav, prožívá děj + vypráví -> ich-forma
-* personální - soustředí se na jednu z postav -> vnitřní monolog, subjektivizovaná er-forma
-* "oko kamery" - vnější popis prostředí, chování postav
+	* vševědoucí - nad příběhem, plně informován -> er-forma
+	* autorský vypravěč - ví všechno, co potřebuje, přidává své komentáře
+	* přímý - jedna z postav, prožívá děj + vypráví -> ich-forma
+	* personální - soustředí se na jednu z postav -> vnitřní monolog, subjektivizovaná er-forma
+	* "oko kamery" - vnější popis prostředí, chování postav
 
 
 ## Postavy
