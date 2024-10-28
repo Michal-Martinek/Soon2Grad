@@ -19,8 +19,8 @@ Mezitím se prasata stále více stávají nadřazenými a začínají poroučet
 Poté co byl mlýn dostavěn, za záhadných okolností se zřítil, což bylo přisouzeno Kulišovi. A zvířata pracovala stále za méně jídla a prasata se rozvalovala v domku původního majitele farmy a tloustla. Nakonec příběhu si ostatní zvířata uvědomila, že prasata se stala nerozeznatelnými od lidí.
 
 ## téma & motiv
-* téma - totalitní režimy...
-* motiv - všdudypřítomné sledování lidí, Strana, manipulace, smysl života
+* téma - totalitní režimy, zvířecí farma, boj proti _vnějšímu_ nepříteli
+* motiv - všdudypřítomné sledování lidí, manipulace, smysl života, propaganda, tajná policie
 
 ## Vypravěč
 nezůčastněný, vševědoucí
@@ -80,7 +80,7 @@ bez nespisovných
 a dál nevím prostě
 
 ## stavba vět
-věty rozvité, dlouhá souvětí
+věty rozvité, dlouhá souvětí??
 
 # KONTEXT
 Eric Arthur Blair (jinak George Orwell) 
