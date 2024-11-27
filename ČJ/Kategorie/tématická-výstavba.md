@@ -23,12 +23,18 @@ _vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
 * o čem vypravěč mluví - vnitřní, vnější, popisy, odbíhá od tématu ...
 
 #### typ vypravěče (lyrického subjektu)
-* zúčastněný / nezúčastněný
-	* vševědoucí - nad příběhem, plně informován -> er-forma
-	* autorský vypravěč - ví všechno, co potřebuje, přidává své komentáře
-	* přímý - jedna z postav, prožívá děj + vypráví -> ich-forma
-	* personální - soustředí se na jednu z postav -> vnitřní monolog, subjektivizovaná er-forma
-	* "oko kamery" - vnější popis prostředí, chování postav
+> zúčastněný / nezúčastněný
+
+* vševědoucí - nad příběhem, plně informován -> er-forma
+* autorský vypravěč - ví všechno, co potřebuje, přidává své komentáře
+* přímý - jedna z postav, prožívá děj + vypráví -> ich-forma
+* personální - soustředí se na jednu z postav -> vnitřní monolog, subjektivizovaná er-forma
+* "oko kamery" - vnější popis prostředí, chování postav
+
+
+### řeč vypravěče
+_vše co není přímá řeč_
+TODO
 
 
 ## Postavy
@@ -40,12 +46,6 @@ _vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
 * konflikty - problémy kterým čelí
 * vývoj – proměny postavy a její příčiny
 
-
-
-### řeč vypravěče
-_vypravěče - vše co není přímá řeč_
-
-TODO
 
 ### řeč postav:
 
