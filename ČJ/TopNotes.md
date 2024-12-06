@@ -13,3 +13,9 @@ https://veronikabatelkova.cz/rozbory-del-k-maturite/
 slohový postup - vyprávěcí
 slohový útvar
 funkční styl
+
+
+# Palčivé otázky
+rozbor ukázky nebo celého díla?
+metafora / metonymie
+letopočty u kontextu autorů

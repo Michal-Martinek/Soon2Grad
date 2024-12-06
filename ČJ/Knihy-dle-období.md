@@ -46,3 +46,20 @@ Jirotka - Saturnin
 Havel - vernisáž, Audience
 
 Potenciálně: Hrabal, Viktor Dyk - Krysař, Kundera, Seifert, Smoljak, Tankový prapor
+
+
+# Zatím nahlášené
+## prvních 5
+Kafka - Proměna
+Orwell - Farma zvířat
+Jirotka - Saturnin
+Exupery - Malý Princ
+
+! Rosten - Pan Kaplan má třídu rád
+
+## druhých 5
+Hemingway - Stařec & moře
+Viktor Dyk - Krysař
+Havel - Audience / Vernisáž - zatím jedno
+Kafka - Proces
+Čapek - Věc Makropulos
