@@ -22,6 +22,10 @@ _vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
 * ich-forma, er-forma
 * o čem vypravěč mluví - vnitřní, vnější, popisy, odbíhá od tématu ...
 
+## scénické poznámky
+> * er-forma
+> * popisuje, jak vypadá scéna, jaké jsou přítomny postavy, kde jsou, jak vypadají, v jakém jsou >> rozpoložení, jak navazuje scéna na okolní, co se v ní mění / změnilo
+
 #### typ vypravěče (lyrického subjektu)
 > zúčastněný / nezúčastněný
 

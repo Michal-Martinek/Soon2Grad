@@ -18,6 +18,10 @@ Děj je řazen chronologicky, retrospektivně, rámcový postup
 * poezie - zpěvy, básně, sloky, verše
 * drama - jednání (dějství), scény, výstupy, repliky
 
-* např. Dílo se skládá z kapitol, ty jsou relativně krátké a nejsou dále děleny na podkapitoly. Text je členěn do odstavců.
-kapitoly, mezi nimiž bývá přechod buď volný, nebo těsný.
+## Příklady
+### Próza
+> Dílo se skládá z kapitol, ty jsou relativně krátké a nejsou dále děleny na podkapitoly. Text je členěn do odstavců.
+> kapitoly, mezi nimiž bývá přechod buď volný, nebo těsný.
 
+### Drama
+> Rozděleno do tří dějství, ty se dělí na scény, scény jsou složeny z výstupů postav a replik.

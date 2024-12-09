@@ -60,15 +60,15 @@ Zejména popisuje danou situaci a děj tak jak plyne a příliš se nezdržuje p
 > do města přijde Krysař, aby vyhnal krysy, zamiluje se, nakonec celé město i sebe pošle do jámy
 
 ## Časoprostor
-Německé město Hameln
-čas neznámý, vychází - staroněmecká pověst ze 13. stol.
+Německé město Hameln  
+čas neznámý, vychází z staroněmecké pověsti ze 13. stol.
 
 # Kompoziční výstavba
 chronologická
-konec díla je volný - Sepp s dítětem jdou hledat ženu, která by ho nakojila, symbolizuje nový začátek
-26 kapitol - ty nejsou děleny na podkapitoly + jsou krátké ~ 1/2 stránky
-často se mezi kapitolami mění pohled - z vypravování situace do toho co si o tom myslí Sepp; skoky v prostoru
-text -> odstavce
+konec díla je volný - Sepp s dítětem jdou hledat ženu, která by ho nakojila, symbolizuje nový začátek  
+26 kapitol - ty nejsou děleny na podkapitoly + jsou krátké ~ 1/2 stránky  
+často se mezi kapitolami mění pohled - z vypravování situace do toho co si o tom myslí Sepp; skoky v prostoru  
+text členěn na odstavce přiměřené délky
 
 # Jazyková vrstva
 ## Jazyk
@@ -78,7 +78,6 @@ text -> odstavce
 * historismy - konšel
 * knižní - jitro
 * přechodníky - nesouce
-
 
 ### Tropy
 * Personifikace - řeka šeptala
@@ -90,8 +89,8 @@ text -> odstavce
 
 ### Figury
 Epizeuxis - ... potichu. Potichu
-Elipsa - 
-Apoziopeze
+Elipsa - Šel.
+Apoziopeze ...
 Řečnická otázka - A co Joergen?
 
 # Literární a obecně kulturní kontext
@@ -101,11 +100,13 @@ Apoziopeze
 
 # Autor
 * za 1. sv. války vězněn
-* specifický styl autora - úsečný a krátký verš, satira, skepse
+* specifický styl autora - úsečný a krátký verš, satira, skepse, inverze
 * život - 1877 - 1931
 
 ## další autorova díla
 Zmoudření Dona Quijota, Milá sedmi loupežníků
 
 ## další autoři
-* František Gellner, Fráňa Šrámek - Měsíc nad řekou, Stanislav Kostka Neumann - Satanova sláva mezi námi
+* František Gellner - Po nás ať přijde potopa
+* Fráňa Šrámek - Měsíc nad řekou
+* Stanislav Kostka Neumann - Satanova sláva mezi námi

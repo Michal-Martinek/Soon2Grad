@@ -12,7 +12,8 @@ komedie
 
 ## Téma
 * hlavní téma - nesmrtelnost a její úskalí
-* vedlejší téma - dědictví, soudní tahanice, právo prodlužování života, smysl života, otupění člověka časem
+* vedlejší téma - dědictví, soudní tahanice, právo na prodlužování života, smysl života, otupění člověka časem a životem
+* přenášení problémů jedněch na další generace - staletí trvající spor / nesmrtelnost vyvolených
 
 ## Motiv
 zpěvačky, koncerty, spisy, advokacie
@@ -34,7 +35,8 @@ zpěvačky, koncerty, spisy, advokacie
 * Josef Prus - elegantní protivník Gregora, strohý, přísný
 	- vyčítá si synovu sebevraždu
 * jeho syn Janek - mladý, odhodlaný, romantik
-	- také se zamiluje do Emilie, poté se kvůli její lhostejnosti zastřelí
+	- ve vztahu s Kristou, v průběhu se o tom dozví jeho otec Prus
+	- poté se zamiluje do Emilie, kvůli její lhostejnosti se zastřelí
 * Doktor Kolenatý - advokát zastupující Gregora, zakládá si na odměřeném vystupování, ze své profese je svázaný v racionálnosti, v průběhu se projeví jeho touha "zvlčet" a páchat nepravosti
 
 * Vítek - jeho asistent, potrpí si na pořádek a správné a ověřené informace, idealista
@@ -48,25 +50,24 @@ zpěvačky, koncerty, spisy, advokacie
 * **další postavy**: poklízečka, strojník, komorná, lékař
 
 ### řeč postav:
-* dialogy postav
-postavy mluví podle svojí "úrovně" (strojník a poklízečka mluví hovorově, naopak pan Prus mluví vznešeně)
-Emilia mluví s lidmi možná přespříliš přátelsky - cizím lidem říká dětinsky, poroučí jim, nebo se jim vysmívá - to vyjadřuje její nevázanost a životní postoj ^
-
+dialogy postav - z povahy díla užitá přímá řeč  
 Postavy mluví srozumitelně, používají jednoduché věty a souvětí, dialogy rychle plynou
-užitá přímá řeč
+* postavy mluví podle svojí "úrovně" (strojník a poklízečka mluví hovorově, naopak pan Prus mluví vznešeně)
+* Emilia mluví s lidmi možná přespříliš přátelsky - cizím lidem říká dětinsky, poroučí jim, nebo se jim vysmívá - to vyjadřuje její nevázanost a životní postoj ^
+
 
 ## Časoprostor
 čas: odpovídá době vzniku - 20. léta
 	- dozvídáme se o událostech z rodinné historie postav
 
-prostor dle dějství:
+### prostor dle dějství:
 1. - pracovna doktora Kolenatého
 2. - divadelní jeviště po přestavení Marty
 3. - pokol Emilie
 
 # Kompoziční výstavba
 děj řazen chronologicky
-Rozděleno do tří gějství, ty se dělí na scény, ty jsou složeny z výstupů postav a replik.
+Rozděleno do tří dějství, ty se dějí v rámci jedné scény, ty jsou složeny z výstupů postav a replik.
 Po třetím dějství následuje Proměna, tedy výjev inscenovaného soudu, kde se odhalí podrobnosti zápletky.
 
 # Jazyková vrstva
@@ -94,7 +95,7 @@ Po třetím dějství následuje Proměna, tedy výjev inscenovaného soudu, kde
 
 ### Figury
 Epizeuxis - "aby, aby", "pan - pan"
-Elipsa - dej (to) se!
+Elipsa - dej (to) sem!
 Apoziopeze - poněkud...
 Řečnická otázka - nevhodné, že?
 Exklamace - Tak vida!, Hej vy!

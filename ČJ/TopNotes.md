@@ -16,6 +16,7 @@ funkční styl
 
 
 # Palčivé otázky
+motiv / téma (hlavní / vedlejší)
 rozbor ukázky nebo celého díla?
 metafora / metonymie
 letopočty u kontextu autorů
