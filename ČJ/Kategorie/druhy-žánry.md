@@ -106,3 +106,4 @@ _také jako lit. druh_
 *   **opera** – spojení dramatu s hudbou
 *   **muzikál** – spojení mluvené, zpěvní a taneční složky
 *   **činohra**
+*	**alegorie** - symbolika, kritika lidského chování
