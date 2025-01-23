@@ -85,23 +85,34 @@ Elipsa – „Dělá to pořád!“
 
 Synekdocha – „Všechno se zuřivě nekontrolovatelně zmítalo“ - nožičky
 
-### literární a obecně kulturní kontext
-TODO
-styl - existencialismus
+# literární a obecně kulturní kontext
 **život**: _1883 – 1924_
 
+- Židovský původ, němec žijící v praze – zdálo se mu že nikam nezapadá.
+- Byl pilný pracovník, práce ho ale nebavila.
+- Měl komplikované společenské i rodinné vztahy.
 
-Židovský původ, němec žijící v praze – zdálo se mu že nikam nezapadá.
+- **styl** - existencialismus
+	- _Stoupenec_ Pražské německé literatury
+- TODO sloh - umělecký sloh, literární proud
+	* charakteristiky
+* specifický styl autora
 
-Byl pilný pracovník, práce ho ale nebavila.
+### odkazy na skutečnost mimo text
+- vyprávnění duchovního - _Zámek_
+- Kafka také pracoval v bance, složité vztahy se ženami
+	- cítil se unášen životem někam kam nechtěl
 
-Měl komplikované společenské i rodinné vztahy.
+### díla
+- Proměna, Proces
+- Zámek, Amerika, Nezvěstný
 
-Stoupenec Pražské německé literatury
-
-**další autoři**: Camill Hoffmann, Rainer Maria Rilke, Oskar Wiener
-Max Brod – zveřejnil Kafkovo dílo, své dílo např. Hlídka
-Herman Hesse – Stepní vlk, Siddhartha
-Marcel Proust – Hledání ztraceného času
-James Joyce – Odysseus
-Maxim Gorkij – Měšťáci
+### další autoři
+- **světoví**: Camill Hoffmann, Rainer Maria Rilke, Oskar Wiener
+James Joyce – Odysseus  
+Maxim Gorkij – Měšťáci  
+**čeští**
+- Max Brod – přátelé, zveřejnil Kafkovo dílo, své dílo např. Hlídka
+- Herman Hesse – Stepní vlk, Siddhartha
+- Marcel Proust – Hledání ztraceného času
+- další čeští??: Meyrink, Werfel, Kisch, Hugo Steiner

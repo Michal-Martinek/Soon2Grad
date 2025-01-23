@@ -21,6 +21,7 @@ _vše, o čem vypovídá, obsahová a myšlenková stránka, pohled na skutečno
 * vedlejší téma
 
 NOTE jak poznat co kam patří??
+* co chtěl autor dílem vyjádřit?
 
 ## Motiv
 _nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_
@@ -29,6 +30,7 @@ _nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_
 _prostředník mezi obsahem sdělení a čtenářem_
 _vypravěč (próza) / lyrický subjekt (poezie) / scénická poznámka (drama)_
 
+* kdo je vypravěč - autor, jedna z postav, _vítr_ idk
 * ich-forma, er-forma
 * o čem vypravěč mluví - vnitřní, vnější, popisy, odbíhá od tématu ...
 
