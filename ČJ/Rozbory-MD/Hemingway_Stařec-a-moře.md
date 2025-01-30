@@ -72,7 +72,7 @@ Er-forma, nezúčastněný, částečně vševědoucí. Vypravěč popisuje vnit
 
 ## **Jazyková vrstva**
 - **Slovní zásoba**:  
-  *Spisovná, jednoduchá, bez ozdobných prvků.*  
+  * Spisovná, jednoduchá, bez ozdobných prvků.*  
   - Výrazná práce s personifikací (moře jako „ona“).  
   - Symbolika (marlin jako soupeř, žraloci jako destrukce).  
 - **Styl**: Typický Hemingwayský „ledovec“ – minimalistický jazyk, mnoho nevysloveného.  
@@ -80,14 +80,40 @@ Er-forma, nezúčastněný, částečně vševědoucí. Vypravěč popisuje vnit
 
 ## **Literární a obecně kulturní kontext**
 - **Život autora**:  
-Hemingway (1899–1961), americký spisovatel, ovlivněn svými zkušenostmi z válek a rybolovu. Nobelova cena za literaturu (1954).  
+Hemingway (1899–1961), americký spisovatel, ovlivněn svými zkušenostmi z válek a rybolovu.
+* _Stařec a moře_ napsal 1952 - jeho poslední dílo
+* Pulitzerova cena
+* Nobelova cena za literaturu (1954).  
 
 - **Styl a směr**:  
-Literární moderna, tzv. „lost generation“, typický strohý styl, zaměření na lidskou vytrvalost a sílu.  
+_Literární moderna, realistická a minimalistická próza_
+**lost generation** = ztracená generace
+  * ovlivněni WWI - deziluze, odcizení a hledání smyslu života, nevíra ve společnost
+
+
+lidská statečnost, boj a nezdolnost (často se zaměřuje na silné jedince, kteří čelí osudu s odvahou)., staví je do kritických situací
+* časté využití přírody a dobrodružství (rybaření, lov, býčí zápasy).
+* typický strohý styl, zaměření na lidskou vytrvalost a sílu.  
+  * Úsporný a jednoduchý styl
+* == **ledovcová teorie** – jen část příběhu je přímo řečena, zbytek je skrytý pod povrchem
+
+### Autor
+* americký spisovatel a novinář, dobrodružný život
+* bojoval v WWI na italské frontě pod červeným křížem
+* novinář ve španělské občanské válce i WWII
+
+* v roce 1961 zemřel - sebevražda? / nehoda?
+
 
 - **Další díla autora**:  
-„Sbohem, armádo“, „Komu zvoní hrana“, „Zelené pahorky africké“.  
+* „Sbohem, armádo“ - příběh lásky na pozadí WWI
+* „Komu zvoní hrana“ - román z prostředí španělské občanské války
+* „Zelené pahorky africké“ - reportážní kniha o safari v Africe
+
 
 - **Autoři stejného směru**:  
-  - **Světoví**: Francis Scott Fitzgerald („Velký Gatsby“), John Steinbeck („Hrozny hněvu“).  
-  - **Čeští**: Karel Čapek („Válka s mloky“).  
+  - **Světoví**: Francis Scott Fitzgerald („Velký Gatsby“) - románu o americkém snu, ztrátě iluzí a dekadenci 20. let.
+  - John Steinbeck („Hrozny hněvu“).  
+
+  - **Čeští**: Karel Čapek („Válka s mloky“).
+    - Jaroslav Hašek - _Osudy dobrého vojáka Švejka_ - satira na absurdní byrokracii a válku, podobně jako Hemingway reflektoval první světovou válku
