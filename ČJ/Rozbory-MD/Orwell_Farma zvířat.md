@@ -3,7 +3,8 @@
 ## George Orwell, 2008 nakl. Argo, román
 
 ## druh a žánr
-próza, epika
+próza, epika, distopický román, rysy bajky - zvířata, ponaučení, dobro x zlo
+satirická zvířecí alegorie
 
 # tématická vrstva
 ## děj
@@ -20,55 +21,58 @@ Poté co byl mlýn dostavěn, za záhadných okolností se zřítil, což bylo p
 
 ## téma & motiv
 * téma - totalitní režimy, zvířecí farma, boj proti _vnějšímu_ nepříteli
+* kritika totalitních režimů - vývoj od mírných, pak utlačování a autoritářství
 * motiv - všdudypřítomné sledování lidí, manipulace, smysl života, propaganda, tajná policie
+	* dobrá myšlenka se zhroutí když jsou u moci určití lidé
 
 ## Vypravěč
-nezůčastněný, vševědoucí
-psáno z pohledu zvířat
-er-forma
+* nezůčastněný, vševědoucí, er-forma
+* mluví jak obecně (za všechna zvířata), tak i o konkrétních situacích a jednotlivých zvířatech
 
-## Hlavní postavy
-* prasata Napoleon a Kuliš
-
-Napoleon je nejvýznamnější zvíře po většinu příběhu. Byl schopen původní myšlenku spravedlnosti a rovnoprávnosti převrátit naruby a přivést Farmu do podobnému stavu jako na začátku. Je to podvodník a lhář. Dokáže vše překroutit ke svému prospěchu.
-
-# charakteristiky
-* Napoleon - prase, nejchytřejší, ale je to podvodník
-* Pan Jones - původní majitel firmy, alkoholik
-* Molina - klisna, ráda se parádí, „dáma“
-* Pištík - prase, lhář
-* Major - inteligentní kanec
-* Boxer - kůň, pracovitý a čestný
-* Kuliš - prase, chytré
-* Benjamin - osel, pasivní intelektuál
-* Krkavec - představuje křesťanství
-* Lidé - kapitalisti, vykořisťovatelé
+## postavy
+**Napoleon** - nejvýznamnější po většinu příběhu, symbol _Stalina_
+* původní myšlenku spravedlnosti a rovnoprávnosti převrátil naruby -> podobný stav jako na začátku
+* podvodník a lhář, je chytrý a dobrý řečník
+* dokáže vše překroutit ke svému prospěchu.
+**Kuliš** - prase, chytré, čestný, tvrdý dříč, snaží se o _dobro všech_, symbol _Lenina_
 
 ### vedlejší
-kůň Boxer, osel Benjamin.
+* Pan Jones - původní majitel farmy, alkoholik, symbol _původního utrpení_ x Revoluce
+* Molina - klisna, ráda se parádí, „dáma“, odejde z farmy
+* Pištík - prase, lhář, posluhovač
+* Major - inteligentní kanec
+* Boxer - kůň, pracovitý a čestný
+* Benjamin - osel, pasivní intelektuál
+* Krkavec - představuje křesťanství
+* ovce - nekritický dav, který slepě opakuje fráze
+* psi - tajná policie
+* Lidé - kapitalisti, vykořisťovatelé
 
-### řeč postav a vypravěče
-* vypravěč - mluví jak obecně (za všechna zvířata), tak i o konkreétních situacích a jednotlivých zvířatech
-
-#### přímá řeč
+## řeč postav
 * postavy - příma řeč - dialogy, také nepřímá řeč
 _ Někdo se otázal,
  proč tedy proti mlýnu tak ostře vystupoval?_
 
 ## časoprostor
 na anglickém venkově v polovině 20. století.
+farma - Farma zvířat
+v průběhu několika let
 
 # kompozice
-chronologický
-členěný do kapitol, odstavců
+chronologická, retrospektivní - vzpomínky na začátky děje, "za Jonese bylo přeci hůř"
+členění do kapitol, odstavců
 
 ## Jazyk
-* text písně Zvířata Anglie, sedm zvířecích přikázání
-přirovnání a metafory
-
 * spisovný, neutrální
+* přirovnání a metafory, alegorie, satira
+* personifikace
+	* text písně Zvířata Anglie, sedm zvířecích přikázání
+	* pozměněný pravopis - Revoluce s kapitálkou
+	* fráze - "Čtyři nohy dobré, dvě nohy špatné", "všichna zvířata jsou si rovna, ale některá jsou si rovnější"
+
 ### slova
 * knižní - proslýchat se, čestné slovo
+* archaismy - senoseč, báchorky
 * odborná - ratifikována, meliorace
 bez nespisovných
 
@@ -77,40 +81,60 @@ bez nespisovných
 
 ### figury
 * aposiopeze - určitě..
-a dál nevím prostě
 
 ## stavba vět
 věty rozvité, dlouhá souvětí??
 
 # KONTEXT
-Eric Arthur Blair (jinak George Orwell) 
+## autor
+Eric Arthur Blair (pseudonymem George Orwell) 
 * 1903-1950
-vznik během 2. světové války
+* britský novinář, esejista, spisovatel
+* narozen  v Indii
+* dobrovolník ve španělské občanské válce, práce pro BBC
+* byl socialistou
+* napsal během 2. světové války
+
+* za komunismu v exilové lit.
+* poznává Rusko - inspirace pro napsání
+
+### styl
+* přímý, jednoduchý a přesný, podobně jako u __Hemingwaye__. Sdílel s ním i zájem o válku, politiku a boj jednotlivce proti systému.
+### myšlenky
+* stalinismus
+* obecně varování před totalitními režimy, technologickým pokrokem
+* utopie, distopie
 
 ## další díla
-Barmské dny
-Farářova dcera
-1984
-Na dně v Paříži a Londýně
+1984 - dystopie o totalitním dohledu, propagandě a kontrole myšlení
 Nadechnout se
 
+Barmské dny
+Farářova dcera
+Na dně v Paříži a Londýně - reportáž o chudobě v evropě
 
-stalinismus
-obecně varování před totalitními režimy
-varování před technologickým pokrokem
-utopie, distopie
-
-destopický román, alegorická bajka
-satirická zvířecí alegorie
-poutavé vyprávění
+### směr
+* literární realismus
+	- Přímý, jednoduchý jazyk bez ornamentů.
+	- Detailní popis reálných sociálních problémů.
+	- Zaměření na běžné lidi a jejich osudy ve velkých historických událostec
+* politická literatura
+	- Kritika ideologií a moci.
+	- Reflexe osobní zkušenosti (např. boj ve Španělsku).
+	- Snaha psát srozumitelně pro širokou veřejnost -> symbolika, alegorie
 
 ### Světoví autoři sci-fi 20. století:
-
 Isaac Asimov – Já, robot
 Arthur C. Clarke – Vesmírná odyssea
-Ray Bradbury – Marťanská kronika
+Ray Bradbury – 451 stupňů Fahrenheita - cenzura - pálení knih, Marťanská kronika
+
+#### Politická satira a totalitarismus:
+- Jonathan Swift (1667–1745, Irsko) – Gulliverovy cesty (1726) – alegorická satira na společnost, podobně jako Farma zvířat.
+- Arthur Koestler (1905–1983, Maďarsko/Velká Británie) – Tma o polednách (1940) – román o stalinských procesech, velmi blízký Orwellovi.
+- Kurt Vonnegut (1922–2007, USA) – Kolíbka (1963), Jatka č. 5 (1969) – absurdní a satirický styl, kritika válek a společnosti.
+- Hannah Arendt (1906–1975, Německo/USA) – Původ totalitarismu (1951) – filozofická analýza totalitních režimů, myšlenkově podobná Orwellovi.
 
 ### Čeští autoři sci-fi 20. století
-
 Karel Čapek – R.U.R., Ze života hmyzu
 Ludvík Souček – Cesta slepých ptáků
+Milan Kundera - _Žert_ kritika komunismu - osobní příběh
