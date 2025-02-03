@@ -32,10 +32,11 @@ flétna, krysy = špatnost, rybář, hospoda, odměna - zrada
 * vševědoucí - nad příběhem, plně informován -> er-forma
 
 ## Postavy
-* Krysař - hlavní postava, Krysař není jeho jméno, jen povoláním - topí krysy pomocí své kouzelné flétny
-	* podivín, samotář, soběstačný, budí strach, tajuplný, ponurý¨
-	* putuje tam, kde je potřeba - není nikde nastálo
-	* rozhodne se pomstít městu, které mu nechce dát co si zaslouží a ještě mu vzalo Agnes
+* Krysař - _není jeho jméno, jen povolání_
+	* topí krysy pomocí své kouzelné flétny
+	* podivín, samotář, soběstačný, budí strach, tajuplný, ponurý
+	* putuje tam, kde je potřeba - nikde není nastálo
+	* rozhodne se pomstít městu, které mu nechce dát výplatu a ještě mu vzalo Agnes
 * Agnes - Krysařova láska, krásná, citlivá, roztomilá; ke konci spáchá sebevraždu
 
 ### Vedlejší
@@ -53,7 +54,6 @@ Zejména popisuje danou situaci a děj tak jak plyne a příliš se nezdržuje p
 
 ### řeč postav:
 * převažuje dialog postav - ty mluví jednoduše, vlastně stručně, jednoduché věty
-
 * přímá řeč přímá
 
 ## Děj
@@ -64,11 +64,11 @@ Německé město Hameln
 čas neznámý, vychází z staroněmecké pověsti ze 13. stol.
 
 # Kompoziční výstavba
-chronologická
-konec díla je volný - Sepp s dítětem jdou hledat ženu, která by ho nakojila, symbolizuje nový začátek  
-26 kapitol - ty nejsou děleny na podkapitoly + jsou krátké ~ 1/2 stránky  
-často se mezi kapitolami mění pohled - z vypravování situace do toho co si o tom myslí Sepp; skoky v prostoru  
-text členěn na odstavce přiměřené délky
+* chronologická
+* konec díla je volný - Sepp s dítětem jdou hledat ženu, která by ho nakojila, symbolizuje nový začátek  
+* 26 kapitol - ty nejsou děleny na podkapitoly + jsou krátké ~ 1/2 stránky  
+* často se mezi kapitolami mění pohled - z vypravování situace do toho co si o tom myslí Sepp; skoky v prostoru  
+* text členěn na odstavce přiměřené délky
 
 # Jazyková vrstva
 ## Jazyk
@@ -94,19 +94,46 @@ Apoziopeze ...
 Řečnická otázka - A co Joergen?
 
 # Literární a obecně kulturní kontext
-* Buřičská literatura, novoromantismus
+## směr
+* **Buřičská literatura**
+	* přelom 19. a 20. století
+	* anarchisté - proti hospodářskému růstu a změnám společnosti, svoboda jedince
+	* prvky dekadence, anarchismu a antimilitarismu
+
+* novoromantismus
+	- TODO
+
 * vycházelo na pokračování v časopisu Lumír
 * vychází ze staroněmecké pověsti, údajně podle pravdivého příběhu
 
 # Autor
-* za 1. sv. války vězněn
-* specifický styl autora - úsečný a krátký verš, satira, skepse, inverze
 * život - 1877 - 1931
+* český publicista, spisovatel, politik, novinář
+* vystudoval práva
+* psal pro Národní listy
+
+* za 1. sv. války vězněn
+
+* psal poezii, prózu i drama
+
+## specifický styl
+* úsečný a krátký verš, satira, skepse, inverze
+* rozpor snu a skutečnosti
+* používá paradoxy
+* myšlenky mají jasnou pointu
 
 ## další autorova díla
-Zmoudření Dona Quijota, Milá sedmi loupežníků
+- Zmoudření Dona Quijota
+- poezie:
+	* A porta infern
+	* Milá sedmi loupežníků
+	* Buřiči
+	* Lehké a těžké kroky
 
 ## další autoři
 * František Gellner - Po nás ať přijde potopa
-* Fráňa Šrámek - Měsíc nad řekou
+* Fráňa Šrámek - Měsíc nad řekou, Stříbrný vítr
 * Stanislav Kostka Neumann - Satanova sláva mezi námi
+* Jaroslav Hašek – Osudy dobrého vojáka Švejka
+* Petr Bezruč – Slezské písně, Ostrava, Maryčka Magdónova
+ 
