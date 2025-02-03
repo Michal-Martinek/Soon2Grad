@@ -23,3 +23,5 @@ motiv / téma (hlavní / vedlejší)
 rozbor ukázky nebo celého díla?
 metafora / metonymie
 letopočty u kontextu autorů
+důležité / nedůležité informace u neuměl. textu
+	- z jakého pohledu?

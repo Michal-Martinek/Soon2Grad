@@ -1,7 +1,32 @@
 # SLOHOVÝ POSTUP
+~ _jak je text napsán? jaká je jeho výstavba?_  
+~ _jenom výčet vlastností nebo i souvislosti?_
+
+~ __Slohový postup__ = jak to text dělá (vyprávění, popis, úvaha)  
+~ __Funkční styl__ = co text dělá (informuje, přesvědčuje, vypráví)
+
+### SLOHOVÉ POSTUPY
+* [Informační](#informační) - nejjednodušší, co se stalo
+* [Popisný](#popisný) - rysy skutečnosti, výčet vlastností
+* [Výkladový](#výkladový) - podstata jevu, souvislosti
+	* [Úvahový](#úvahový) - připojuje názory, hodnocení
+* [Vyprávěcí](#vyprávěcí) - vypráví o jedinečném ději
+
+### FUNKČNÍ STYLY
+* [prostěsdělovací](#prostěsdělovací-styl)
+* [administrativní](#administrativní-styl)
+* [odborný](#odborný-styl)
+* [publicistický](#publicistický-styl)
+* [umělecký](#umělecký-styl)
+* [řečnický](#řečnický-styl)
+
+
 ## Informační
-* nejjednodušší
-* Fakta o tom, co se kdy a kde stalo, prostě konstatuje (nevysvětluje), třeba formou výčtu.
+* nejjednodušší, předání informací
+* fakta o tom, co se kdy a kde stalo, prostě konstatuje (nevysvětluje)
+* stručný, jasný, faktický
+* NE detaily, vnímání ALE předání konkrétních informací
+* formou výčtu
 ### funkčí styly
 * zejména prostěsdělovací (zpráva, dopis, oznámení)
 * administrativní (žádost)
@@ -10,83 +35,91 @@
 ## Popisný
 _také deskriptivní_
 * Zachycuje znaky a rysy skutečnosti (věci, osoby, zvířete, pracovní postup, nebo jiného jevu)
-* popis směrem: nejdůležitější => nejméně, celek <=> části, shora <=> zdola 
+* popis směrem: nejdůležitější => nejméně, celek <=> části, shora <=> zdola
+* detaily, smyslové vnímání, podrobně popsat jak něco vypadá / jaká je někde atmosféra
 * často formou výčtu
-	* Zvláštním druhem popisu je charakteristika, která vystihuje vnitřní znaky osoby výčtem jejích vlastností – charakteristika přímá nebo příkladem jednání a chování – charakteristika nepřímá.
+	* poddruh **charakteristika** ~ popis osoby
+		- přímá - znaky osoby výčtem vlastností
+		- nepřímá - příklad jednání a chování
+
 ### funkčí styly
 * prostěsdělovací styl
 * odborný ()
 * umělecký
 * publicistický
 
-## Vyprávěcí / narativní
-Podává průběh jedinečného děje, události nebo příběhu
-Má dějovou lini od zápletky k vyvrcholení a rozuzlení děje.
-Úsilí o zajímavost, upoutat čtenáře, napětí, názornost, pestrost.
-práce s dějovými prvky - zachování sledu událostí nebo retrospektiva, použití rámce
-
-### funkční styly
-prostěsdělovacím, uměleckém, příp. i publicistický
-
 ## Výkladový
-vysvětluje podstaty jevu (nejen vnější znaky, ale i vnitřní vztahy, souvislosti, příčinné jevy)
+- vysvětluje podstaty jevu
+- vnější + vnitřní znaky, souvislosti, příčinné jevy
+- systematický, logika, objektivní
+
 ## Úvahový
 _může být řazen k výkladovému_
-* názory, city, postoje autora, zamyšlení, hodnocení, srovnávání, logických závěrů (ovlivněny námi)
+* názory, city, postoje autora, zamyšlení, hodnocení, srovnávání, komentář
 * odborná témata - výkladové postupy, v umělecká - vyprávěcí
-** **funkční styl** - odborný a publicistický
-* **slohový útvar** - esej.
+* **funkční styl** - odborný a publicistický
+* **slohový útvar** - esej
+
+## Vyprávěcí
+* Podává průběh jedinečného děje, události nebo příběhu
+* Má dějovou lini od zápletky k vyvrcholení a rozuzlení děje.
+* Úsilí o zajímavost, upoutat čtenáře, napětí, názornost, pestrost.
+* práce s dějovými prvky - zachování sledu událostí nebo retrospektiva, použití rámce
+
+### funkční styly
+prostěsdělovací, umělecký, _příp._ publicistický
 
 
-
-
-# Funkční styl
-_(způsoby vyjadřování) se dělí podle_
-
-* funkce, kterou plní
-* účelu, za kterým jsou zpracovány
+# FUNKČNÍ STYL
+* funkce, kterou text plní ~ _proč je text napsán?_
+* _jaký je účel textu?_ - administrativní / umělecký
+* _komu je adresován?_ - do článku / do encyklopedie / projev
 
 ## Prostěsdělovací styl
-* funkce prostě sdělná * dorozumění
-* styl běžné každodenní komunikace – hovorový (např. v rodině, mezi přáteli, ve škole, v zaměstnání apod.).
+* funkce prostě sdělná - dorozumění
+* styl běžné __každodenní__ komunikace – hovorový (např. v rodině, mezi přáteli, ve škole, v zaměstnání apod.).
 * jednoduchá větná stavba
 ### slohové útvary
 * zpráva, upozornění, rozmluva, vyprávění, jednoduchý popis
-
 
 
 ## Odborný styl
 * funkce odborně sdělná
 * poskytuje hlubší odborné poučení
 * neuplatňuje se citovost
-* styl odborných publikací, odborných časopisů a učebnic. Jeho cílem je podat přesné, jasné a relativně úplné informace z různých oborů lidské činnosti a poučit tím adresáta. Často se také používají odborné pojmy.
+* styl odborných publikací, odborných časopisů a učebnic
 
-* požadavky: věcná správnost, objektivnost, úplnost, přesnost, přehlednost
-* často se vyskytují termíny, jejich vysvětlení, citace z jiné literatury
-* důkladná připravenost
+#### vlastnosti
+- věcně správné, přesné, objektivní
+- přehledné, úplné
+- poučení adresáta
+- důkladně připravené
+	- odborné pojmy, termíny, vysvětlení, citace z jiné literatury
 
-### dle míry odbornosti:
-3. popularizační – zjednodušený, pro laiky, termíny jsou vysvětleny
-2. prakticky odborný (administrativní) – používá se v úřední a obchodní oblasti
+
+#### dle míry odbornosti:
+1. popularizační – zjednodušený, pro laiky, termíny jsou vysvětleny
+1. prakticky odborný (administrativní) – používá se v úřední a obchodní oblasti
 1. styl vědecký (teoretický) – výsledky vědeckého výzkumu, přesné poučení
 ### slohové útvary
-
-
+- odborný článek, stať, pojednání 
+- disertace, referát, přednáška, posudek
+- učebnice, příručky, encyklopedie, slovníky
 
 ## Publicistický styl
 * styl hromadných sdělovacích prostředků (novin, rozhlasu, televize)
 * cílem je informovat o aktuálních věcech, zapůsobit na adresáta, přesvědčit ho o něčem
-* Podává nové aktuální informace.
+* podává nové aktuální informace
 * spisovný jazyk, proměnlivý a dynamický
 
-* požadavky
-	* všeobecná přístupnost, srozumitelnost
-	* pravdivost a přesvědčivost
-	* aktuálnost
-	* poutavost a zajímavost v obsahu i ve formě
+### požadavky
+* všeobecná přístupnost, srozumitelnost
+* pravdivost a přesvědčivost
+* aktuálnost
+* poutavost a zajímavost v obsahu i ve formě
 
 ### slohové útvary
-* zpráva, oznámení, inzerát, komentář, článek, recenze, nekrolog, úvodník, fejeton, interview
+* zpráva, reklama, oznámení, inzerát, komentář, článek, recenze, nekrolog, úvodník, fejeton, interview
 
 ## Umělecký styl
 * styl spisovatelů
@@ -102,6 +135,7 @@ _(způsoby vyjadřování) se dělí podle_
 * jazyku se věnuje velká pozornost – poezie je navíc obohacena o zvukovou stránku
 
 ### slohové útvary
+román, esej, básně
 
 ## Administrativní styl
 _také jednací či úřední_
@@ -126,11 +160,7 @@ _také jednací či úřední_
 * funkce přesvědčovací a propagační
 
 
-
-
-
-
-# Slohové útvary
+# SLOHOVÉ ÚTVARY
 * určitý konkrétní, vyhraněný typ jazykového projevu
 * uspořádán podle určitých pravidel, má své charakteristické rysy
 * jednotlivé slohové útvary se liší:
