@@ -6,14 +6,14 @@ předmět uměleckého zpracování (osoba, událost, děj)
 * předloha - převzání z existujícího díla
 
 ## Téma
-_vše, o čem vypovídá, obsahová a myšlenková stránka, pohled na skutečnost_
+_vše, o čem vypovídá, obsahová a myšlenková stránka, pohled na skutečnost_  
+_není třeba dělit na hlavní x vedlejší, prostupuje **celým dílem**_  
 * hlavní téma - ústřední myšlenka díla
 * vedlejší téma
 
-NOTE jak poznat co kam patří??
-
 ## Motiv
-_nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_
+_nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_  
+_hledat **pouze v ukázce**_
 
 ## Vypravěč
 _prostředník mezi obsahem sdělení a čtenářem_

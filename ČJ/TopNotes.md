@@ -16,12 +16,3 @@ je to novější překlad rozšířený oproti originálu - jiný překladatel
 slohový postup - vyprávěcí
 slohový útvar
 funkční styl
-
-
-# Palčivé otázky
-motiv / téma (hlavní / vedlejší)
-rozbor ukázky nebo celého díla?
-metafora / metonymie
-letopočty u kontextu autorů
-důležité / nedůležité informace u neuměl. textu
-	- z jakého pohledu?

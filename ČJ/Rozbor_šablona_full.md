@@ -16,15 +16,15 @@ předmět uměleckého zpracování (osoba, událost, děj)
 * předloha - převzání z existujícího díla
 
 ## Téma
-_vše, o čem vypovídá, obsahová a myšlenková stránka, pohled na skutečnost_
+_vše, o čem vypovídá, obsahová a myšlenková stránka, pohled na skutečnost_  
+_není třeba dělit na hlavní x vedlejší, prostupuje **celým dílem**_  
 * hlavní téma - ústřední myšlenka díla
 * vedlejší téma
-
-NOTE jak poznat co kam patří??
-* co chtěl autor dílem vyjádřit?
+> co chtěl autor dílem vyjádřit?
 
 ## Motiv
-_nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_
+_nejdrobnější tematický prvek díla, souhrn motivů tvoří dílo_  
+_hledáme **pouze v ukázce**_
 
 ## Vypravěč
 _prostředník mezi obsahem sdělení a čtenářem_
@@ -122,6 +122,7 @@ Děj je řazen chronologicky, retrospektivně, rámcový postup
 
 
 # Jazyková vrstva
+_změřit se více na **jazyk**, klidně výčet prostředků / slov bez komentáře (pokud je toho více)_  
 
 jazyk - slovní zásoba a její vrstvy 
 * spisovnost x nespisovnost
@@ -229,18 +230,27 @@ Výpověď věcná, strohá, racionální, bez emocí a přímá.
 
 
 # Literární a obecně kulturní kontext
-
+_kontext se naučit a **říkat všechno co můžu**, protože jinak se ptají a to není dobrý_  
 * odkazy na skutečnost mimo text (historické události, jiná díla, život autora)
-* specifický styl autora
-* život - století, půlstoletí
-* sloh - umělecký sloh, literární proud
-	* charakteristiky
+
+## autor
+* život - _století, půlstoletí_
+	- _letopočty nejsou třeba_ ALE **kontext doby** - _milníky, války, převraty_
+* zasazení do doby, místa ~ _francouzská meziválečná lit._
+* směr ~ _romantismus, naturalismus_
+	* směry souběžné, před, po; ve světě, v dané zemi
+* umělecký sloh (baroko), literární proud (pražskoněmecká lit.)
+### charakteristiky u všeho ^
+* specifický styl autora  
+	~ _Heminwayovský ledovec_
 
 ## další autorova díla
 
 ## další autoři
-* určení dalších autorů stejného um. směru + dílo ke každému
+* určení dalších autorů **stejného** um. směru, stejného období
+	- dílo ke každému
 * příp. další autoři píšící o tématu
+* inspirace, ovlivnění
 
 ### čeští
 
