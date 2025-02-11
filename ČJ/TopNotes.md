@@ -9,10 +9,15 @@ použít papír s kategoriemi ze školy
 
 https://veronikabatelkova.cz/rozbory-del-k-maturite/
 
-# Pan kaplan má stále třídu rád
-je to novější překlad rozšířený oproti originálu - jiný překladatel
 
 
-slohový postup - vyprávěcí
-slohový útvar
-funkční styl
+## ZDROJE
+Matura
+Čj Wordwall
+Kreslena čeština
+Literatura s prstem v nose
+Hlavni vs vedlejsi postavy
+
+## otázky
+Oko kamery??
+Zjistit, naučit výslovnosti autorů
