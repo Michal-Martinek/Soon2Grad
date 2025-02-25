@@ -70,6 +70,7 @@ TODO
 * vnitřní monolog - promluva nepronesená, zachycuje vnitřní svět postavy v určitém okamžiku
 
 #### typy přímé řeči
+_spíše z ukázky_
 * řeč přímá - doslovná reprodukce projevu 
 	* uvozovky, uvozovací věta
 	* **nevlastní (neznačená) přímá řeč** - stejná ale chybí uvozovky
@@ -192,8 +193,8 @@ Enumerace - výčet, vyjmenování řady věcí (I tys poznal žalost, smutek, s
 
 
 #### Figury vzniklé hromaděním významů
-Amplifikace - zvýraznění pomocí použití několika souznačných slov z různých úhll pohledu
-Gradace - postupné zesilování významu
+Amplifikace - zvýraznění pomocí použití několika souznačných slov z různých úhlů pohledu  
+Gradace - postupné zesilování významu  
 
 #### Syntaktické figury
 Polysendeton - **mnoho** spojovacích významů
@@ -217,8 +218,8 @@ veršová výstavba
 rýmy, verše...
 
 
-typy promluv
-vyprávěcí způsoby
+typy promluv TODO
+vyprávěcí způsoby TODO
 
 **stavba vět:**
 Převažují souvětí, jejich obsah je však jednoduše pochopitelný. Jsou střední až delší, v některých částech ovšem krátké, úsečné jednoduché věty.
