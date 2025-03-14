@@ -150,9 +150,9 @@ TODO Vlastní jména
 
 ### podle dobového výskytu
 
-* archaismy (slova zastaralá) – vytratila se, už jim nerozumíme, stále existující skutečnost má dnes jiný název - _máteř (matka), kmán (chudák)_
-* historismy (slova historická) – označují věci a jevy už zaniklé, rozumíme jim ale nejsou aktuální -  _palcát, grešle_
-* neologismy (slova nově utvořená) - nové skutečnosti
+* archaismy - vytratila se, už jim nerozumíme, stále existující skutečnost má dnes jiný název - _máteř (matka), kmán (chudák)_
+* historismy - označují věci a jevy už zaniklé, rozumíme jim ale nejsou aktuální -  _palcát, grešle_
+* neologismy - nové skutečnosti
 
 ## Tropy a figury
 _a jejich funkce ve výňatku_
@@ -179,34 +179,33 @@ _více abstraktní, nejsou "vidět" narozdíl od figur_
 ### Figury
 _jsou vidět v textu_
 #### Figury vzniklé hromaděním hlásek
-Aliterace - opakování hlásek (skupin) na začátku
-Onomatopoie - zvukomalba, může napodobovat reálný zvuk
-Asonance - pouze samohlásková shoda závěrečných slov verše
-Konsonance - pouze souhlásková shoda závěrečných slov verše
+* Aliterace - opakování hlásek (skupin) na začátku
+* Onomatopoie - zvukomalba, může napodobovat reálný zvuk
+* Asonance - pouze samohlásková shoda závěrečných slov verše
+* Konsonance - pouze souhlásková shoda závěrečných slov verše
 
 #### Figury vzniklé hromaděním slov
-Epizeuxis - stejná slova (spojení) **za sebou**
-Anafora - stejné slovo (více slov) na **začátku**
-Epifora - stejné slovo (více slov) na **konci**
-Epanastrofa - stejné na konci => začátku dalšího
-Enumerace - výčet, vyjmenování řady věcí (I tys poznal žalost, smutek, stesk a lásku.)
-
+* Epizeuxis - stejná slova (spojení) **za sebou**
+* Anafora - stejné slovo (více slov) na **začátku**
+* Epifora - stejné slovo (více slov) na **konci**
+* Epanastrofa - stejné na konci => začátku dalšího
+* Enumerace - výčet, vyjmenování řady věcí (I tys poznal žalost, smutek, stesk a lásku.)
 
 #### Figury vzniklé hromaděním významů
-Amplifikace - zvýraznění pomocí použití několika souznačných slov z různých úhlů pohledu  
-Gradace - postupné zesilování významu  
+* Amplifikace - zvýraznění pomocí použití několika souznačných slov z různých úhlů pohledu  
+* Gradace - postupné zesilování významu  
 
 #### Syntaktické figury
-Polysendeton - **mnoho** spojovacích významů
-Asyndeton - **málo** spojovacích významů
-Vsuvka
-Zeugma - zanedbání rozdílné vazby souřadných členů, dovjité vazby
-Elipsa - vynechání
-Apoziopeze - nedokončená výpověď
+* Polysendeton - **mnoho** spojovacích významů
+* Asyndeton - **málo** spojovacích významů
+* Vsuvka
+* Zeugma - zanedbání rozdílné vazby souřadných členů, dvojité vazby
+* Elipsa - vynechání
+* Apoziopeze - nedokončená výpověď
 
 #### Řečnické figury
-Řečnická otázka - neočekává odpověď
-Exklamace - citově vzrušené zvolání (Jaká krása!)
+* Řečnická otázka - neočekává odpověď
+* Exklamace - citově vzrušené zvolání (_Jaká krása!_)
 
 
 # TODO ---------------
@@ -221,13 +220,12 @@ rýmy, verše...
 typy promluv TODO
 vyprávěcí způsoby TODO
 
-**stavba vět:**
-Převažují souvětí, jejich obsah je však jednoduše pochopitelný. Jsou střední až delší, v některých částech ovšem krátké, úsečné jednoduché věty.
+### stavba vět
+> Převažují souvětí, jejich obsah je však jednoduše pochopitelný. Jsou střední až delší, v některých částech ovšem krátké, úsečné jednoduché věty.  
 
-
+> Výpověď věcná, strohá, racionální, bez emocí a přímá.
 
 jazykové prostředky a jejich funkce – slova: vyhledat, pojmenovat, citovat + zdůvodnit proč je autor využil
-Výpověď věcná, strohá, racionální, bez emocí a přímá.
 
 
 # Literární a obecně kulturní kontext
