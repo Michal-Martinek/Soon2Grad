@@ -3,15 +3,16 @@ Moliére - Lakomec
 Moliére - Tartuffe
 
 Shakespeare - 2
+* ROMEO A JULIE
+* ZKROCENÍ ZLÉ ŽENY
+<!-- 
 * HAMLET
 * KUPEC BENÁTSKÝ
 * MACBETH
 * OTHELLO
-* ROMEO A JULIE
 * SEN NOCI SVATOJÁNSKÉ 
-* ZKROCENÍ ZLÉ ŽENY
 * SONETY
-
+ -->
 
 # II - 19. století - min. 3 -> 2, 1
 **!!chybí min jedno dílo!!**
@@ -35,7 +36,7 @@ Guy de Maupassant - Miláček
 # III - světová 20 + 21 století - min. 6 - 10 (8 přečteno), 6 autorů
 ### jistí
 Ernest Hemingway - stařec a moře  
-Ernest Hemingway - KOMU ZVONÍ HRANA, SBOHEM, ARMÁDO
+Ernest Hemingway - SBOHEM, ARMÁDO
 
 Franz Kafka - Proměna  
 Franz Kafka - Proces
@@ -44,7 +45,7 @@ George Orwell - Farma zvířat
 George Orwell - 1984
 
 John Steinbeck - O myších a lidech  
-John Steinbeck - HROZNY HNĚVU ?
+John Steinbeck - HROZNY HNĚVU
 
 BECKETT SAMUEL: ČEKÁNÍ NA GODOTA  
 SAINT DE EXUPÉRY ANTOINE: MALÝ PRINC  
@@ -64,7 +65,7 @@ Camus - Cizinec
 
 # IV - Století 20 + 21 - česká - min. 7 - 7, 4
 ### jisté
-Karel Čapek - Válka s mloky  
+Karel Čapek - Bílá nemoc  
 Karel Čapek - Věc Makropulos  
 Bratři Čapkové - Ze života hmyzu  
 

@@ -93,7 +93,9 @@ Elipsa - Šel.
 Apoziopeze ...
 Řečnická otázka - A co Joergen?
 
+TODO DUPLICATE
 # Literární a obecně kulturní kontext
+> TODO zbytek v **milé**
 ## směr
 * **Buřičská literatura**
 	* přelom 19. a 20. století
