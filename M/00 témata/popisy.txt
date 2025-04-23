@@ -1,0 +1,26 @@
+Funkce a její vlastnosti - definice, vlastnosti (rostoucí, klesající, prostá, sudá, lichá, periodická, omezená shora, omezená zdola, omezená, maximum, minimum, konvexní, konkávní, spojitá), definiční obor a obor hodnot, grafy, užití diferenciálního počtu
+Kvadratická funkce, rovnice a nerovnice - graf kvadratické funkce, její vlastnosti, řešeníkvadratické rovnice v oboru komplexních čísel, kvadratická rovnice s parametrem
+Exponenciální funkce, rovnice a nerovnice - definice, vlastnosti, grafy, užitídiferenciálního počtu, metody řešení exponenciálních rovnic a nerovnic
+Logaritmické funkce, rovnice a nerovnice - definice, vlastnosti, grafy, pravidla pro logaritmování, užití diferenciálního počtu, metody řešení logaritmických rovnic a nerovnic
+Goniometrické funkce a rovnice - definice, vlastnosti, grafy, užití vzorců, metody řešenígoniometrických rovnic
+Metody řešení rovnic - ekvivalentní a důsledkové úpravy, metody řešení soustav rovnic, substituce, rovnice s parametrem, rovnice vyšších stupňů
+Absolutní hodnota reálného a komplexního čísla - definice v Rav C, rovnice a nerovnice s absolutní hodnotou v Riv C, funkce s absolutní hodnotou
+Rovnice a nerovnice v komplexních číslech - rovnost komplexních čísel, lineární rovnice, kvadratická rovnice, binomická rovnice, grafické řešení rovnic a nerovnic v C
+Algebraický a goniometrický tvar komplexního čísla - reálná a imaginární část, Gaussova rovina, čísla komplexně sdružená, absolutní hodnota, operace s komplexními čísly, Moivreova věta, binomická rovnice
+Kombinatorika a pravděpodobnost - kombinatorická pravidla součtu a součinu, variace, kombinace, permutace, sčítání pravděpodobností, nezávislé jevy, binomické rozdělení
+Operace s kombinačními čísly, binomická věta - vlastnosti kombinačních čísel, výrazy s faktoriály, binomická věta, binomický rozvoj
+Výrazy - zjednodušování výrazů, rozklad v součin, podmínky, pravidla pro počítánís mocninami a odmocninami, goniometrické výrazy, výrazy s logaritmy, výrazy s komplexními čísly, definiční obor výrazu, rovnost výrazů
+Základy matematické logiky - výroky, operace s nimi, negace, tabulka pravdivostních hodnot, tautologie, typy důkazů - přímý, s užitím obměny, sporem
+Přímka a rovina v analytické geometrii - obecná a parametrická rovnice přímky, vzájemná poloha dvou přímek, vzájemná poloha dvou rovin, vzájemná poloha přímky a roviny, odchylky a vzdálenosti
+Kružnice, kruh, koule - analytické vyjádření uvedených útvarů, vzájemná poloha přímky a kružnice (koule, kruhu), vzájemná poloha koule a roviny
+Elipsa - definice, základní pojmy, středová a obecná rovnice elipsy, elipsa a přímka, výpočet obsahů a objemů
+Parabola - definice, základní pojmy, analytické vyjádření, parabola a přímka, parabola jako graf funkce, výpočty ploch a objemů
+Hyperbola - definice, základní pojmy, analytické vyjádření, hyperbola a přímka, hyperbola jako graf funkce, výpočty ploch a objemů
+Vzájemná poloha kuželosečky a přímky - analytické vyjádření kuželosečky a přímky, vyšetření vzájemné polohy kuželosečky a přímky, tečna, sečna, vnější přímka, asymptota, konstrukce tečny ke kružnici
+Trigonometrie, Eukleidovy věty, Pythagorova věta - užití Pythagovovy věty a Eukleidových vět, sinová věta, kosínová věta, řešení trojúhelníků
+Shodnost a podobnost- osová a středová souměrnost, posunutí, otočení, identita, stejnolehlost, úlohy řešené pomocí shodných a podobných zobrazení, shodnost a podobnost v početních úlohách
+Stereometrie- řezy těles rovinou, odchylky - řezy, odchylky přímek a rovin, průniky přímek s rovinou nebo tělesem, objemy a povrchy těles
+Posloupnosti a řady - definice, vlastnosti (konečná, nekonečná, rostoucí, klesající, omezená), rekurentní vzorec, aritmetická a geometrická posloupnost, limita, nekonečná geometrická řada-užití
+Diferenciální počet - limita funkce a její užití, derivace funkce, užití-tečna ke grafu, extrémy, průběh funkce
+Integrální počet - primitivní funkce, integrace přímou metodou, substituční metoda, per partes, určitý integrál, obsah plochy, objem rotačního tělesa
+Vektory v rovině a prostoru - TODO popis

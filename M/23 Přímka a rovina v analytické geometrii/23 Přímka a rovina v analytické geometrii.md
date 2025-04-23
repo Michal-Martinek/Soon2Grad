@@ -1,4 +1,7 @@
-# Přímky
+
+# 23 - Přímka a rovina v analytické geometrii
+
+<!-- Přímka a rovina v analytické geometrii - obecná a parametrická rovnice přímky, vzájemná poloha dvou přímek, vzájemná poloha dvou rovin, vzájemná poloha přímky a roviny, odchylky a vzdálenosti -->
 
 ## defice
 - dvěma body: **B - A** - směrový vektor
