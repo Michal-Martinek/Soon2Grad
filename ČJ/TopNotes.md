@@ -21,3 +21,10 @@ Hlavni vs vedlejsi postavy
 ## otázky
 Oko kamery??
 Zjistit, naučit výslovnosti autorů
+
+_změřit se více na **jazyk**, klidně výčet prostředků / slov bez komentáře (pokud je toho více)_  
+
+
+typy promluv TODO
+vyprávěcí způsoby TODO
+typy rýmů
