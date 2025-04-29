@@ -1,4 +1,14 @@
 
 # 19 - Stereometrie
 
-Stereometrie- řezy těles rovinou, odchylky - řezy, odchylky přímek a rovin, průniky přímek s rovinou nebo tělesem, objemy a povrchy těles
+### řezy těles rovinou
+- vznikne rovinná plocha
+
+### řezy s odchylkou
+
+### odchylky přímek a rovin
+
+## průniky přímek s rovinou nebo tělesem
+
+## objemy a povrchy těles
+- rotační integrál - `pi r^2 dx`

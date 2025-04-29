@@ -1,0 +1,5 @@
+
+2) asi 35,26°
+3) pravidelného 4-stěnného jehlanu o postaranní hraně a = 2
+- těžko říct
+4) myslím že v integrálu má být (16 - x^2)^1 dx - vyšlo mi 5*64/3
