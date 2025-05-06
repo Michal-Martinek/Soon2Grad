@@ -1,0 +1,11 @@
+_projekty
+
+.vs
+obj
+bin
+Properties
+*.config
+*.csproj
+*.sln
+*.user
+
