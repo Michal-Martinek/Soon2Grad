@@ -203,32 +203,69 @@ _jsou vidět v textu_
 
 # Literární a obecně kulturní kontext
 
-odkazy na ostatní díla autora
-život autora
+## kontext díla
+- zesměšňující tehdejší pokryteckou společnost a praktiky církve
+- uvedeno před králem
+- biskup poté zakázal její uvádění
+- poté se v důsledku přepracovanosti i osobních trápení začal zhoršovat i jeho zdravotní stav, začaly se objevovat symptomy tuberkulózy a jeho nepevné zdraví ztěžovalo a zpomalovalo psaní dalších her.
+- poté se zlepšilo -> posledních sedm let prosperity
 
-TODO
-<!-- 
-_kontext se naučit a **říkat všechno co můžu**, protože jinak se ptají a to není dobrý_  
-* odkazy na skutečnost mimo text (historické události, jiná díla, život autora)
 ## autor
-* život - _století, půlstoletí_
-	- _letopočty nejsou třeba_ ALE **kontext doby** - _milníky, války, převraty_
-* zasazení do doby, místa ~ _francouzská meziválečná lit._
-* směr ~ _romantismus, naturalismus_
+- 1622 - 1673
+	- za Ludvíka XIV.
+	- rozkvět umění
+- vlastním jménem Jean-Baptiste Poquelin
+- francouz - Paříž
+- spisovatel, dramatik, herec
+	- synem měšťana, proti vůli rodiny se stal komediantem
+	- komedie, fraška, satira
+	- působil u kočovné divadelní společnosti, pak si založil vlastní
+
+
+- francouzský **klasicismus**
+	- Vychází z antických vzorů (řecké a římské drama).
+	- Důraz na rozum, řád, uměřenost a morální ponaučení.
+	- Tzv. jednoty (místa, času, děje) byly považovány za ideál dramatické struktury.
+
+
+<!-- * směr ~ _romantismus, naturalismus_
 	* směry souběžné, před, po; ve světě, v dané zemi
-* umělecký sloh (baroko), literární proud (pražskoněmecká lit.)
-### charakteristiky u všeho ^
-* specifický styl autora  
-	~ _Heminwayovský ledovec_
+* umělecký sloh (baroko), literární proud (pražskoněmecká lit.) -->
+
+### specifický styl autora
+- satirické komedie
+- veršované (Misantrop) i prozaické (Lakomec)
+- nešvary francouzské vyšší společnosti (lakota, naivita, pokrytectví, hypochondři a především snobství)
+
+- Typické postavy – hypochondři, lakomci, domýšlivci, pokrytci, podvodníci.
+- Často se střetává rozum a přirozenost s předsudky, dogmatismem či pokrytectvím.
+- Proslul živým jazykem, komickými situacemi a divadelní energií.
+
+
+
+- na začátku: inspirace lidovou fraškou
+- dále: charakterové komedie, konverzační komedie
 
 ## další autorova díla
+odkazy na ostatní díla autora
+Tartuffe, Misantrop, Lakomec a Zdravý nemocný - poslední dílo + zemřel po hraní hlavního hrdiny
 
 ## další autoři
-* určení dalších autorů **stejného** um. směru, stejného období
+<!-- * určení dalších autorů **stejného** um. směru, stejného období
 	- dílo ke každému
 * příp. další autoři píšící o tématu
-* inspirace, ovlivnění
+* inspirace, ovlivnění -->
+TODO
+
+Jean Racine – tragéd, klasicistní dramatik, autor tragédií jako Faidra.
+
+Pierre Corneille – předchůdce klasicismu ve francouzském dramatu, autor Cid.
+
+La Fontaine – autor bajek, reprezentant klasicistní poezie.
+
+Descartes – filozof doby rozumu (Myslím, tedy jsem).
+
 
 ### čeští
 
-### světoví -->
+### světoví
