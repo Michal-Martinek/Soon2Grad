@@ -17,4 +17,5 @@
 - oznaménkovaný obsah plochy pod grafem
 
 ### objem rotačního tělesa
-V = 2^pi f(x)
+V = pi * f(x)^2
+
