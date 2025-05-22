@@ -135,6 +135,20 @@ Vysvětlete základní programovací techniky, které jsou v programu použity.*
     }
     class Program
     {
+        // ŘEŠENÍ
+        static int ZadaniCisla(string msg, bool allowZero=true) {
+            do {
+                Console.Write(msg);
+                string inp = Console.ReadLine();
+                int a; // NOTE use output
+                if (int.TryParse(inp, ref a)) {
+                    if (allowZero || a != 0) {
+                        return a;
+                    }
+                }
+                Console.WriteLine("Špatný vstup");
+            } while (true);
+        }
         static Zlomek ZadaniZlomku()
         {
             Console.Write("Zadejte čitatel celé číslo: ");
