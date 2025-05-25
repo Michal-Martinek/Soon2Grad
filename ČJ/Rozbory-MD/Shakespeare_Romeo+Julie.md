@@ -142,20 +142,58 @@ TODO
 * žil v období **renesance** – důraz na člověka, city, krásu
 * působil v **Anglii za vlády Alžběty I. a Jakuba I.**
 * dramatik, herec, básník
-* psal tragédie, komedie i historická dramata
+### díla
+* tragédie
+	- Romeo a Julie
+	- Othello
+	- Macbeth
+	- Hamlet
+	- Julius Caesar
+* komedie
+	- Zkrocení zlé ženy
+	- Sen noci svatojánské
+	- Kupec Benátský
+	- Mnoho povyku pro nic
+	- Veselé paničky windsorské
+	- Jak se vám líbí
 
-## **Další díla**
+* historická dramata
+	- Richard I+II
+	- Jindřich IV - VI
+	- Král Lear
 
-* **Hamlet**, **Macbeth**, **Othello**, **Král Lear**, **Sen noci svatojánské**, **Bouře**
+* Pohádkové hry (romance)
+	- Zimní pohádka
+	- Perikles
+	- Bouře
+
+## tvorba dělena do tří období
+
+- 1591–1600: především komedie a historická dramata, staré náměty z anglické minulosti a z antiky.
+- 1601–1608: rozčarování nad vývojem společnosti - pesimismus a tragédie a sonety
+- 1608–1612: Smiřuje se - romance ~ tragikomedie
 
 ## **Autoři stejného období / směru**
 
 * **Christopher Marlowe** – *Doktor Faustus*
-* **Ben Jonson** – *Volpone*
 * **Miguel de Cervantes** (Španělsko) – *Důmyslný rytíř Don Quijote de la Mancha*
 * **Machiavelli** – *Mandragora*
+* George Chapman (c. 1559–1634)
+	- Známý jako překladatel Homéra, ale také dramatik.
+* Molière – pozdější, podobných tendencí v komedii.
 
 ### Čeští autoři (později, renesance u nás spíše zpožděná):
 
-* **Jan Blahoslav**, **Václav Hájek z Libočan**
+* **Jan Blahoslav** - Humanistický učenec a jazykovědec, přeložil Nový zákon, významný představitel jednoty bratrské.
+* **Václav Hájek z Libočan** - Kronika česká
+
 * **Komedie o vdově** – renesanční drama v Čechách
+
+* Jan Amos Komenský (1592–1670)
+– Humanista, filozof, pedagog, teolog – jeho díla jako Labyrint světa a ráj srdce (1623) mají silný duchovní i umělecký rozměr. Zcela srovnatelný svou originalitou se světovými autory.
+
+* Adam Michna z Otradovic (c. 1600–1676)
+– Básník, hudebník a autor duchovní poezie (Loutna česká). Krásná barokní obraznost, velmi působivý styl.
+
+#### drama v Čechách
+latinsky. Nešlo o divadlo typu Shakespeara, ale mělo formu mravoličných nebo biblických představení.
