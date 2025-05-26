@@ -76,19 +76,30 @@ Jazyk spisovný, nezabarvený
 
 
 
-### literární a obecně kulturní kontext
+# Literární a obecně kulturní kontext
 
 Král Lávra byl napsán na námět staré irské pověsti, zasazené do českých reálií.
 
-Autor byl za svou tvorbu internován do Brixenu, kde na protest proti absolutistické vládě napsal svá nejznámější díla.
-Psal tedy hlavně satiricky a žertovně.
-Je považován za zakladatele lit. kritiky u nás.
+## Autor
+- Básník, novinář, politik (poslanec říšského sněmu) a satirik
+**život**: první polovina 19. století
+- za svou tvorbu internován do Brixenu (Rakousko)
+	- tam na protest proti absolutistické vládě napsal svá nejznámější díla.
+- Zakladatel a redaktor **Národních novin**
+- Psal hlavně satiricky a žertovně
+- zakladatel lit. kritiky u nás, české politické publicistiky
+- Racionalista, odpůrce idealizace a pokrytectví
+- 1848 - v revolučním roce (Jaro Národů) - povstání po Evropě
+	- rak. - kancléř Metternich
 
 #### další díla
-Tyrolské elegie, Křest svatého Vladimíra, Epigramy
+- Tyrolské elegie - Satira na nucené deportace do Brixenu, plná ironie a sebeironie
+- Křest svatého Vladimíra
+- Epigramy - Krátké ironické verše, rozdělené do oddílů: vlast, politika, náboženství, svět
 
-**život**: první polovina 19. století
 **sloh**: realismus
+- kritický realismus
+- obrozenecké generace po roce 1848
 
 **další autoři**:
 * Karel Hynek Mácha
