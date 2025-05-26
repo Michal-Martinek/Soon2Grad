@@ -202,14 +202,13 @@ Konsonance - pouze souhlásková shoda závěrečných slov verše -->
 * kult vášně a síly
 * vliv romantické lit. o odbojných vyděděncích
 
-* Dykova díla **Giuseppe Moro, Krysař, Mílá sedmi loupežníků** spojuje:
-	> drama jedné postavy
-	- stejný styl vyprávění, málo básnických prostředků
-
 ## Námět
 * Loupežník Jaromír - hl. postava ze hry rak. dramatika **Franze Grillplzera** - _Ahnfrau_
 
+# Autor
 ## směr
+* spojován se skupinou kolem _Moderní revue_
+* časopisy + Lumír - Krysař
 * **Buřičská literatura**
 	* přelom 19. a 20. století
 	* anarchisté - proti hospodářskému růstu a změnám společnosti, svoboda jedince
@@ -220,33 +219,22 @@ Konsonance - pouze souhlásková shoda závěrečných slov verše -->
 		- politická poezie
 		- láska k národu, strach o něj
 
-<!-- * novoromantismus
-	- TODO -->
-* spojován se skupinou kolem _Moderní revue_
-	<!-- * TODO naučit časopisy + Lumír - Krysař -->
 
-# Autor
-
-<!-- ## autor
-* život - _století, půlstoletí_
-	- _letopočty nejsou třeba_ ALE **kontext doby** - _milníky, války, převraty_
-* zasazení do doby, místa ~ _francouzská meziválečná lit._
-* směr ~ _romantismus, naturalismus_
+## autor
+* český publicista, spisovatel (psal poezii, prózu i drama), politik, novinář
+* život - přelomu 19. a 20. století
+	- období národní emancipace, kritiky dekadence, vzestupu moderny a později boje o samostatnost
+	- v době Rakouska-Uherska, 1. světové války a vzniku Československa
+* chtěl aktivní literaturu, která **burcuje**, odmítal posivitu _dekadence_
+* směr **českého realismu**
 	* směry souběžné, před, po; ve světě, v dané zemi
-* umělecký sloh (baroko), literární proud (pražskoněmecká lit.)
-### charakteristiky u všeho ^
-* specifický styl autora  
-	~ _Heminwayovský ledovec_
 
- -->
 * život - 1877 - 1931
-* český publicista, spisovatel, politik, novinář
 * vystudoval práva
-* psal pro Národní listy
-
+* aktivní občan a politik:
+	- psal pro Národní listy
+	- člen Revolučního národního shromáždění
 * za 1. sv. války vězněn
-
-* psal poezii, prózu i drama
 
 ## specifický styl
 * úsečný a krátký verš, satira, skepse, inverze
@@ -261,15 +249,19 @@ Konsonance - pouze souhlásková shoda závěrečných slov verše -->
 	* Buřiči
 	* Lehké a těžké kroky
 
+* Dykova díla **Giuseppe Moro, Krysař, Mílá sedmi loupežníků** spojuje:
+	> drama jedné postavy
+	- stejný styl vyprávění, málo básnických prostředků
+
+### Oblasti
+🎭 Poezie	Buřiči, Milá sedmi loupežníků	Od expresivní revolty ke zpovědní lyrice
+📖 Próza	Krysař (1915)	Novoromantická novela s filozofickým přesahem
+🎙 Publicistika	Národní listy, Česká politika	Ostře národní tón, politické komentáře
+
 
 ## další autoři
-<!-- * určení dalších autorů **stejného** um. směru, stejného období
-	- dílo ke každému
-* příp. další autoři píšící o tématu
-* inspirace, ovlivnění -->
 * František Gellner - Po nás ať přijde potopa
 * Fráňa Šrámek - Měsíc nad řekou, Stříbrný vítr
 * Stanislav Kostka Neumann - Satanova sláva mezi námi
 * Jaroslav Hašek – Osudy dobrého vojáka Švejka
-* Petr Bezruč – Slezské písně, Ostrava, Maryčka Magdónova
- 
+* Petr Bezruč – Slezské písně - Ostrava, Maryčka Magdónova
