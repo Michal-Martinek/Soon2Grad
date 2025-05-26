@@ -58,9 +58,36 @@ Není myšleno jako experiment s možnostmi jazyka. Postavy mluví spisovně, ob
 Často si nerozumějí.
 
 ### literární a obecně kulturní kontext
+* napsal po 2. světové válce
 
-**život**: _Beckett dílo napsal po 2. světové válce, kdy lidé myslili, že demokracie nemůže existovat. Je vlastně zakladatelem absurdního dramatu._
 
-**sloh**: _absurdní drama_
+## autor
+Samuel Barclay Beckett
+* z Irska, žil ve Francii
+* dramatik a prozaik
+* zakladatel **absurdního dramatu**
 
-**další autoři:** Genet, Pinter, Arrabal, Eugène Ionesco, Václav Havel
+
+## další autorova díla
+* mnoho děl, Godot zdaleka nejznámější
+
+### Drama
+- Konec hry (Fin de partie)
+- Akt beze slov
+- Poslední páska (Krapp's Last Tape)
+### Poezie
+- Děvkoskop (Whoroscope)
+- Společnost (Company)
+## další autoři
+* určení dalších autorů **stejného** um. směru, stejného období
+	- dílo ke každému
+* příp. další autoři píšící o tématu
+* inspirace, ovlivnění
+
+### světoví
+- Eugène Ionesco (Plešatá zpěvačka, Nosorožec)
+- Jean Genet (Služky, Balkón)
+- Albert Camus - Cizinec, Mor, Caligula
+
+### čeští
+- Václav Havel
